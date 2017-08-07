@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name[en]=Server
+Name=SERVER
+Exec=/home/dh/SERVER.desktop
+Comment=Ingreso al Servidor
+Icon=/usr/share/icons/Humanity/devices/128/disk-harddisk.svg
+Terminal=False

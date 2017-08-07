@@ -1,0 +1,10 @@
+body{
+
+  background-image:url("like.jpg");
+  background-repeat: repeat-y;
+  background-attachment: scroll;
+  background-position: center;
+}
+h1{ font-size: 125px;
+  font-weight: lighter;
+}

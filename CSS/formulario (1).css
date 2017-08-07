@@ -1,0 +1,31 @@
+
+
+
+body{
+  background-color: rgba(255,111,204,0.2);
+  font-family: sans-serif;
+
+
+}
+
+#contra{
+  font-size: 10px
+
+}
+#titular{
+  image-orientation: center;
+}
+
+textarea{
+  resize: vertical;
+}
+
+
+
+input{
+  color:blue
+}
+
+input:focus{
+  color:Black
+}

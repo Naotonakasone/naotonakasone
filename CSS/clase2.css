@@ -1,0 +1,31 @@
+
+}
+body {
+background-color: rgba(255,111,204,0.2);
+font-family: sans-serif;
+}
+
+h3 {
+
+	opacity: 0.4
+}
+
+li a {
+	text-decoration: none;
+}
+
+#cosito {
+	font-size: 14px;
+}
+
+#Hobbies {
+	font-size: 16px;
+}
+
+#woo{
+	text-align: center;
+}
+
+#mini{
+	font-size: 10px;
+}
